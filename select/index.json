@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "BB Belt (Audio)",
+  "base_artist": "Ice Spice",
+  "createdAt": "2026-03-23T16:37:08.379444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BB Belt (Audio)",
+      "artist": "Ice Spice",
+      "has_synced": true,
+      "path": "select/01_BB_Belt_(Audio)_Ice_Spice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BB Belt (Audio)",
+      "artist": "Ice Spice",
+      "has_synced": true,
+      "path": "select/02_BB_Belt_(Audio)_Ice_Spice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ice Spice - BB Belt (Audio)",
+      "artist": "Ice Spice",
+      "has_synced": true,
+      "path": "select/03_Ice_Spice_-_BB_Belt_(Audio)_Ice_Spice.lrc"
+    }
+  ]
+}
