@@ -1,0 +1,59 @@
+# Ice Spice – BB Belt (Audio)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.88] (Stop playin' with 'em, RIOT)
+[00:19.38] 
+[00:07.26] Truey's on and I BB my belt (Like)
+[00:10.90] I'm Ms. Poopie, but I never smell (Grrah)
+[00:12.12] He hit my line 'cause he know I'm myself (Grrah)
+[00:13.78] He got a bitch, but he know I don't tell (Like)
+[00:15.44] I'm a baddie so fuck how she felt (Grrah)
+[00:17.09] I'm a baddie like, fuck how you feel (Damn)
+[00:18.96] And I'm thick 'cause I don't miss a meal
+[00:38.96] 
+[00:20.43] And I'm lit 'cause I just signed a deal (Grrah)
+[00:22.67] Everybody be knowin' my name (Like)
+[00:24.28] Just want the money, I don't want the fame (Like)
+[00:25.55] And I'm different, they ain't in my lane (Grrah)
+[00:27.47] Countin' up hundreds, is how I stay seen (Like)
+[00:29.36] Picture perfect, he lovin' my frame (Damn)
+[00:30.95] I'm a baddie, I do what I do (Do what I do)
+[00:32.77] Like, I'm bad, but my bitches is too (Like)
+[00:34.63] And they know how to move (Move)
+[00:36.09] Niggas talk we go 'ku ('Ku)
+[00:37.34] I don't get introduced
+[00:39.56] Yeah, I'm that bitch so they stealin' my juice
+[00:40.65] This one bitch is built like an ant, ew (Ew)
+[00:43.08] Crashouts, and they goin' on rants
+[00:44.63] Cash cow, I be gettin' them bands (Damn)
+[00:46.53] Bitches switchin' but they wasn't trans (Grrah)
+[01:10.03] 
+[00:48.14] Truey's on and I BB my belt (Like)
+[00:52.10] I'm his poopie, but I never smell (Grrah)
+[00:52.99] He hit my line 'cause he know I'm myself (Grrah)
+[00:55.17] He got a bitch, but he know I don't tell (Like)
+[00:56.52] I'm a baddie so fuck how she felt (Grrah)
+[00:58.34] I'm a baddie like, fuck how you feel (Damn)
+[01:00.22] And I'm thick 'cause I don't miss a meal
+[01:20.22] 
+[01:01.62] And I'm thick, but I don't got a waist (Damn)
+[01:06.99] Think she pretty, but changin' her face (Damn)
+[01:08.32] Fallin' behind like, bitch, pick up your pace
+[01:10.83] It was funny 'til I took her place
+[01:12.17] Her man callin', but I be like, "Who this?" (Who this?)
+[01:14.05] I'm a switchy bitch, I really do this (Damn)
+[01:15.32] Lightskin, but I'm black, you can tell by my hair (Hair)
+[01:18.83] I get money, bitch, I am a millionaire (Millionaire)
+[01:22.38] Walk in the party, everybody gon' stare (What?)
+[01:25.70] If I ain't the one, why the fuck am I here, hm?
+[01:49.20] 
+[01:29.21] Truey's on and I BB my belt (Like)
+[01:32.73] I'm his poopie, but I never smell (Grrah)
+[01:34.36] He hit my line 'cause he know I'm myself (Grrah)
+[01:36.07] He got a bitch, but he know I don't tell (Like)
+[01:37.99] I'm a baddie so fuck how she felt (Grrah)
+[01:39.52] I'm a baddie like, fuck how you feel (Damn)
+[01:41.29] And I'm thick 'cause I don't miss a meal
+```
